@@ -2,7 +2,7 @@
 
 Topic: Forward Head Posture Detection (Binary Classification)\
 Abstract: \
-View the detailed project report [here](final_report.pdf). 
+View the detailed project report [here](final_report.pdf).
 
 ## Reproducing Results
 
